@@ -1,5 +1,6 @@
 # Review Data Analysis & Authenticity Detection | ML, TF/IDF, Sk Learn, Pandas, Python
-Fake Hotel reviews Detector using ML and Sentiment analysis.
+
+**Research Paper Published:** https://propulsiontechjournal.com/index.php/journal/article/view/11043
 
 In recent years, the World Wide Web has drastically changed the way of sharing opinions. Online reviews are comments, tweets, posts, opinions on different online platforms. Customer analyzes available reviews and makes a decision whether to purchase the product or not. Fake or spam review refers to any unsolicited and irrelevant information about the product or service. Spammer writes fake reviews about the competitors’ products and promotes their own products.
 
